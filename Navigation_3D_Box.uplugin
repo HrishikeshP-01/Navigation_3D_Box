@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Navigation_3D_Box",
+	"Description": "Use the box method for 3D navigation",
+	"Category": "Other",
+	"CreatedBy": "Hrishikesh P",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Navigation_3D_Box",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
